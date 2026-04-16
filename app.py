@@ -22,7 +22,7 @@ tfidf = joblib.load("tfidf_vectorizer.joblib")
 rf_model = joblib.load("priority_model.joblib")
 
 # Load dataset (for workload balancing)
-df = pd.read_csv(r"C:\Users\admin\Downloads\task_management_dataset.csv")
+df = pd.read_csv("data/task_management_dataset.csv")
 
 # ------------------ Styling ------------------
 st.markdown("""
