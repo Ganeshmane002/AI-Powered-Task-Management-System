@@ -94,7 +94,7 @@ AI-Powered-Task-Management-System/
 ### Step 1: Install Dependencies
 
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 
 ### Step 2: Run Notebook
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 ### Step 3: Run Streamlit App
 
 
-streamlit run app.py
+* streamlit run app.py
 
 
 ## 🧠 Sample Prediction
