@@ -93,22 +93,20 @@ AI-Powered-Task-Management-System/
 
 ### Step 1: Install Dependencies
 
-```
+
 pip install -r requirements.txt
-```
+
 
 ### Step 2: Run Notebook
 
-* Open `notebooks/AI-Powered-Task-Management-System.ipynb`
+* Open notebooks/AI-Powered-Task-Management-System.ipynb
 * Run all cells to train models
 
 ### Step 3: Run Streamlit App
 
-```
-streamlit run app.py
-```
 
----
+streamlit run app.py
+
 
 ## 🧠 Sample Prediction
 
