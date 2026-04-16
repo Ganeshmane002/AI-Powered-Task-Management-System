@@ -74,7 +74,7 @@ AI-Powered-Task-Management-System/
 
 ### 2. Feature Engineering
 
-* TF-IDF Vectorization (unigrams + bigrams)
+* TF-IDF Vectorization 
 
 ### 3. Model Training
 
